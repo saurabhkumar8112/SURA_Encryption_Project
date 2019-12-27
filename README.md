@@ -1,2 +1,2 @@
 # SURA_Encryption_Project
-![Alt text](/relative/path/FlowChart/Image1.JPG "Optional Title") 
+![alt text](https://raw.githubusercontent.com/saurabhkumar8112/SURA_Encryption_Project/master/FlowChart/Image1.JPG)
